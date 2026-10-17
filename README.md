@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Bandar Amer 👋
 
-<!--
-**bandaramergit/bandaramergit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Network Security Engineer focused on threat detection and SOC operations.
 
-Here are some ideas to get you started:
+I build real cybersecurity labs and turn complex attacks into clear, documented scenarios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Work On
+- Active Directory attack simulation & detection
+- SIEM deployment and detection engineering (Splunk)
+- Network traffic analysis and incident response
+- Practical cybersecurity guides for Arabic speakers
+
+## 🛠️ Tools
+Splunk • Wireshark • Kali Linux • Metasploit • impacket • Nmap • Security Onion
+
+## 📌 Featured Project
+🔐 [Cybersecurity Home Lab](https://github.com/bandaramergit/cybersecurity-homelab) — 4 phases, 7 scenarios, full attack-to-detection pipeline
+
+## 📬 Connect
+- 🌐 [bandaramer.com](https://bandaramer.com)
+- 💼 [LinkedIn](https://linkedin.com/in/bandar-amer)
+- 📩 bandar.content@gmail.com
